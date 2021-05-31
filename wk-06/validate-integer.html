@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+      Filename: ./validate-integer.html
+      Author:   Adrian Gould
+    -->
+    <meta charset="UTF-8">
+    <title>validate integer</title>
+    <script src="./js/validate-integer.js" defer></script>
+</head>
+<body>
+
+<h1>Data Validation</h1>
+<p>Demonstrate integer validation</p>
+
+<p id="dataOutput">Waiting...</p>
+
+<form action="#" id="validate-me" method="post">
+    <div>
+        <label for="dataInput">
+            Enter number (1-9):
+        </label>
+        <input type="text" id="dataInput" name="data">
+        <p id="dataError"></p>
+    </div>
+
+    <div>
+        <button type="submit" name="send">
+            Send!
+        </button>
+    </div>
+
+</form>
+
+</body>
+</html>

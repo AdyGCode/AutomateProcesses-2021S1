@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+    <!-- dl>(dt+dd[id=$]) -->
+    <dl id="peopleList">
+
+    </dl>
+    <p id="JSONoutput"></p>
+</div>
+<script>
+    let people = [
+        { name : "John", age : 31, city : "New York", },
+        { name : "Johann", age : 55, city : "Amsterdam", },
+        { name : "Juan", age : 24, city : "San Paulo", },
+    ];
+    let data = ""
+    for ( let count = 0; count < people.length; count++ ) {
+        let aPerson = people[count]
+        data += "<dt>Name</dt>\n<dd>" + aPerson.name + "</dd>"
+        data += "<dt>Age</dt>\n<dd>" + aPerson.age + "</dd>"
+        data += "<dt>Location</dt>\n<dd>" + aPerson.city + "</dd>"
+    }
+    document.getElementById( "peopleList" ).innerHTML = data
+
+    let JSONpeople = JSON.stringify(people)
+    document.getElementById( "JSONoutput" ).innerHTML = JSONpeople
+
+</script>
+</body>
+</html>

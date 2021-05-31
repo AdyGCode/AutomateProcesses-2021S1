@@ -266,3 +266,5 @@ fabric.properties
 # Local History for Visual Studio Code
 .history/
 
+/.idea/
+**/node_modules/**

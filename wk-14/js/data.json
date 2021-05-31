@@ -1,0 +1,29 @@
+[
+  {
+    "name": "John",
+    "age": 31,
+    "city": "New York"
+  },
+  {
+    "name": "Johann",
+    "age": 55,
+    "city": "Amsterdam"
+  },
+  {
+    "name": "Juan",
+    "age": 24,
+    "city": "San Paulo",
+    "status": "deceased"
+  },
+  {
+    "name": "YOURNAME",
+    "age": 99,
+    "city": "Perth"
+  },
+  {
+    "name": "Juan",
+    "age": 24,
+    "city": "San Paulo",
+    "status": "deceased"
+  }
+]

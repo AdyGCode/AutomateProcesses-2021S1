@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Forms and Tooltips</title>
+
+    <!-- tailwind css linked in -->
+    <link href="./css/styles.css" rel="stylesheet">
+
+    <!-- Had dark background and uses a grid to layout the form controls -->
+</head>
+<body class="bg-gray-900 text-gray-200 my-6">
+<div class="p-6 max-w-lg mx-auto bg-gray-700 rounded-xl shadow-md flex
+            items-center space-x-4">
+
+    <form action="#" method="post" class="py-2">
+        <div class="pb-2 my-1 grid grid-cols-3" id="givenNameControl">
+            <label for="givenNameInput"
+                   class="pr-2">
+                Given Name:
+                <span class="text-sm bg-green-300 p-1 rounded
+                        z-50 shadow-sm hidden absolute mt-7">
+                    A given name is required, and must contain at least
+                    one character.
+                </span>
+            </label>
+            <input type="text" id="givenNameInput"
+                   name="givenName"
+                   class="border border-gray-400 rounded">
+        </div>
+
+        <div class="pb-2 my-1 grid grid-cols-3" id="familyNameControl">
+            <label for="familyNameInput"
+                   class="pr-2 w-25">
+                Family Name:
+                <span class="text-sm bg-green-300 p-1 rounded
+                        z-50 shadow-sm hidden absolute mt-7">
+                    A family name is not required.
+                </span>
+            </label>
+            <input type="text" id="familyNameInput"
+                   name="familyName"
+                   class="border border-gray-400 rounded">
+        </div>
+
+        <div class="pb-2 my-1 grid grid-cols-3">
+            <label for="submitButton" class=""></label>
+            <button type="submit" id="submitButton" name="saveButton"
+                   class="rounded bg-blue-600 border border-blue-800 p-1 px-6"
+                    value="Save">Save</button>
+        </div>
+    </form>
+
+</div>
+
+<script src="js/tooltip.js"></script>
+</body>
+</html>

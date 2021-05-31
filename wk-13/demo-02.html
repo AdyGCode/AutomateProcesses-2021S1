@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="">
+    <!-- dl>(dt+dd[id=$]) -->
+    <dl>
+        <dt>JSON Code</dt>
+        <dd id="demo">...</dd>
+    </dl>
+</div>
+<script>
+    let myObj = { name : "John", age : 31, city : "New York" };
+    let myJSON = JSON.stringify( myObj );
+    /* Redirect to the location demo_json.php */
+    window.location = "demo_json.php?x=" + myJSON;
+</script>
+</body>
+</html>

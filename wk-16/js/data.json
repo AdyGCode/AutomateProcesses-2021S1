@@ -1,0 +1,68 @@
+{
+  "people": [
+    {
+      "name": "John",
+      "age": 31,
+      "city": "New York"
+    },
+    {
+      "name": "Johann",
+      "age": 55,
+      "city": "Amsterdam"
+    },
+    {
+      "name": "Juan",
+      "age": 24,
+      "city": "San Paulo",
+      "status": "deceased"
+    },
+    {
+      "name": "YOURNAME",
+      "age": 99,
+      "city": "Perth"
+    },
+    {
+      "name": "Juan",
+      "age": 24,
+      "city": "San Paulo",
+      "status": "deceased"
+    }
+  ],
+  "places": [
+    {
+      "name": "San Paulo",
+      "state": "São Paulo",
+      "country": "BR"
+    },
+    {
+      "name": "Perth",
+      "state": "Western Australia",
+      "country": "AU"
+    },
+    {
+      "name": "Amsterdam",
+      "state": "North Holland",
+      "country": "NL"
+    },
+    {
+      "name": "New York",
+      "state": "New York",
+      "country": "US"
+    },
+    {
+      "name": "London",
+      "state": "London",
+      "country": "UK"
+    },
+    {
+      "name": "Sydney",
+      "state": "NSW",
+      "country": "AU"
+    },
+    {
+      "name": "Perth",
+      "state": "Perthshire",
+      "country": "UK"
+    }
+  ]
+}

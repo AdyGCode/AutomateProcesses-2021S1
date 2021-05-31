@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <title>Todo List</title>
+</head>
+<body>
+
+<div class="container">
+    <div
+            class="p-6 max-w-sm mx-auto bg-white rounded-xl shadow-md flex items-center space-x-4 flex-col">
+
+        <div class="flex-shrink-0">
+            <h1 class="text-3xl">To Do</h1>
+        </div>
+        <div class="flex-grow">
+            <p id="dateOutput" class="text-gray-500 text-center"></p>
+            <p id="timeOutput" class="text-xl font-medium text-black text-center"></p>
+        </div>
+        <div class="flex-grow">
+            <p id="dateOutput" class="text-gray-500 text-center"></p>
+            <p id="timeOutput" class="text-xl font-medium text-black text-center"></p>
+        </div>
+
+
+
+
+
+    <form class="todo-form">
+        <input type="text" class="todo-input" placeholder="Add a Todo...">
+        <button type="submit" class="add-button">Add</button>
+    </form>
+
+    <ul class="todo-items">
+        <!-- dummy item -->
+        <li class="item" data-key="1594003133171">
+            <input class="checkbox" type="checkbox">
+            Go to Gym
+            <button class="delete-button">X</button>
+        </li>
+    </ul>
+</div>
+
+
+</div>
+
+<script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>

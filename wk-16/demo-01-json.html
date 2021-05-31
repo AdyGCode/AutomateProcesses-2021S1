@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Week 16: Demo 01</title>
+    <script src="js/demo-01.js" defer></script>
+    <!-- filename: wk-14/demo-01.html -->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div id="demo" class="w-1/2 m-auto">
+
+    <!-- table>(thead>tr>th*4)+(tbody#tableData>tr>td[colspan=4]{No Data}) -->
+    <table class="border-collapse w-1/2">
+        <thead>
+        <tr>
+            <th class="p-3 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">#</th>
+            <th class="p-3 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Location</th>
+            <th class="p-3 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Name</th>
+            <th class="p-3 font-bold uppercase bg-gray-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Age</th>
+        </tr>
+        </thead>
+        <tbody id="tablePeopleData">
+        <tr class="bg-white lg:hover:bg-gray-100 flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+            <td colspan="4" class="w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static">No Data</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <tr class="bg-white lg:hover:bg-gray-100 flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+            <td colspan="4" id="tablePeopleSummary" class="w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static"></td>
+        </tr>
+        </tfoot>
+    </table>
+
+    <table class="border-collapse w-1/2 mt-12">
+        <thead>
+        <tr>
+            <th class="p-3 font-bold uppercase bg-blue-200 text-gray-600 border border-gray-300 hidden lg:table-cell">#</th>
+            <th class="p-3 font-bold uppercase bg-blue-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Location</th>
+            <th class="p-3 font-bold uppercase bg-blue-200 text-gray-600 border border-gray-300 hidden lg:table-cell">State</th>
+            <th class="p-3 font-bold uppercase bg-blue-200 text-gray-600 border border-gray-300 hidden lg:table-cell">Country</th>
+        </tr>
+        </thead>
+        <tbody id="tablePlacesData">
+        <tr class="bg-white lg:hover:bg-gray-100 flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+            <td colspan="4" class="w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static">No Data</td>
+        </tr>
+        </tbody>
+        <tfoot>
+        <tr
+                class="bg-blue-100 lg:hover:bg-blue-300 flex lg:table-row flex-row lg:flex-row flex-wrap lg:flex-no-wrap mb-10 lg:mb-0">
+            <td colspan="4" id="tablePlacesSummary" class="w-full lg:w-auto p-3 text-gray-800 text-center border border-b block lg:table-cell relative lg:static"></td>
+        </tr>
+        </tfoot>
+    </table>
+</div>
+</body>
+</html>

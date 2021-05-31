@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+      Filename: ./validate-integer-v3.html
+      Author:   Adrian Gould
+    -->
+    <meta charset="UTF-8">
+    <title>validate integer</title>
+    <script src="js/validate-integer-v3.js" defer></script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-900 text-gray-200 my-6">
+<div class="m-6 max-w-lg mx-auto bg-gray-700 rounded-xl
+            shadow-md flex flex-col items-left space-x-4">
+    <div class="m-3">
+        <h1 class="text-3xl">Data Validation Version 3</h1>
+        <p>Demonstrate integer validation</p>
+    </div>
+    <div class="my-3">
+        <h3 class="text-2xl">Results</h3>
+        <p id="dataOutput">Waiting...</p>
+    </div>
+    <div class="my-3">
+        <form action="#" id="validate-me" method="post">
+            <div class="my-3">
+                <label for="numberOne">
+                    Enter number (1-9):
+                </label>
+                <input type="text" id="numberOne" name="num1">
+                <p id="dataError1"
+                   class="mr-3 mt-1 text-xs bg-red-500 rounded p-0 px-1 hidden"></p>
+            </div>
+            
+            <div class="my-3">
+                <label for="numberTwo">
+                    Enter number (1-9):
+                </label>
+                <input type="text" id="numberTwo" name="num2">
+                <p id="dataError2"
+                   class="mr-3 mt-1 text-xs bg-red-500 rounded p-0 px-1 hidden"></p>
+            </div>
+
+            <div class="my-3">
+                <button type="submit" name="send"
+                        class="rounded p-2 py-1 bg-blue-300 text-white">
+                    Send!
+                </button>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+</body>
+</html>
