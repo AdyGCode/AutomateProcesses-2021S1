@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+      Filename: ./prevent-form-submit.html
+      Author:   Adrian Gould
+    -->
+    <meta charset="UTF-8">
+    <title>Forms III</title>
+
+    <script src="js/dynamic-list-check.js" defer></script>
+
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-900 text-gray-200 my-6">
+<div class="m-6 max-w-lg mx-auto bg-gray-700 rounded-xl
+            shadow-md flex flex-col items-left space-x-4">
+    <div class="m-3">
+        <h1 class="text-3xl">Forms IV</h1>
+        <p>This document demonstrates:</p>
+        <ul>
+            <li>Preventing a form from submitting</li>
+            <li>Checking which checkboxes are ticked</li>
+        </ul>
+    </div>
+
+    <div class="my-3">
+        <h3 class="text-2xl">Results</h3>
+        <p id="dataOutput">Waiting...</p>
+    </div>
+
+    <div class="my-3">
+        <form action="#" id="submit-me" method="post">
+
+            <div id="productList">
+
+            </div>
+
+            <div class="my-3">
+                <button type="submit" name="send"
+                        class="rounded p-2 py-1 bg-blue-300 text-white">
+                    Send!
+                </button>
+            </div>
+
+        </form>
+
+    </div>
+</div>
+</body>
+</html>
