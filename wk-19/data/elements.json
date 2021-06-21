@@ -1,0 +1,948 @@
+{
+  'elements': [
+    {
+      'AtomicNumber': 1,
+      'AtomicMass': 1.0079,
+      'Element': 'Hydrogen',
+      'Symbol': 'H',
+      'Discovered': '1776',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 2,
+      'AtomicMass': 4.0026,
+      'Element': 'Helium',
+      'Symbol': 'He',
+      'Discovered': '1895',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 3,
+      'AtomicMass': 6.941,
+      'Element': 'Lithium',
+      'Symbol': 'Li',
+      'Discovered': '1817',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 4,
+      'AtomicMass': 9.0122,
+      'Element': 'Beryllium',
+      'Symbol': 'Be',
+      'Discovered': '1797',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 5,
+      'AtomicMass': 10.811,
+      'Element': 'Boron',
+      'Symbol': 'B',
+      'Discovered': '1808',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 6,
+      'AtomicMass': 12.0107,
+      'Element': 'Carbon',
+      'Symbol': 'C',
+      'Discovered': 'Ancient',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 7,
+      'AtomicMass': 14.0067,
+      'Element': 'Nitrogen',
+      'Symbol': 'N',
+      'Discovered': '1772',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 8,
+      'AtomicMass': 15.9994,
+      'Element': 'Oxygen',
+      'Symbol': 'O',
+      'Discovered': '1774',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 9,
+      'AtomicMass': 18.9984,
+      'Element': 'Fluorine',
+      'Symbol': 'F',
+      'Discovered': '1886',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 10,
+      'AtomicMass': 20.1797,
+      'Element': 'Neon',
+      'Symbol': 'Ne',
+      'Discovered': '1898',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 11,
+      'AtomicMass': 22.9897,
+      'Element': 'Sodium',
+      'Symbol': 'Na',
+      'Discovered': '1807',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 12,
+      'AtomicMass': 24.305,
+      'Element': 'Magnesium',
+      'Symbol': 'Mg',
+      'Discovered': '1755',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 13,
+      'AtomicMass': 26.9815,
+      'Element': 'Aluminum',
+      'Symbol': 'Al',
+      'Discovered': '1825',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 14,
+      'AtomicMass': 28.0855,
+      'Element': 'Silicon',
+      'Symbol': 'Si',
+      'Discovered': '1824',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 15,
+      'AtomicMass': 30.9738,
+      'Element': 'Phosphorus',
+      'Symbol': 'P',
+      'Discovered': '1669',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 16,
+      'AtomicMass': 32.065,
+      'Element': 'Sulfur',
+      'Symbol': 'S',
+      'Discovered': 'Ancient',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 17,
+      'AtomicMass': 35.453,
+      'Element': 'Chlorine',
+      'Symbol': 'Cl',
+      'Discovered': '1774',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 18,
+      'AtomicMass': 39.948,
+      'Element': 'Argon',
+      'Symbol': 'Ar',
+      'Discovered': '1894',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 19,
+      'AtomicMass': 39.0983,
+      'Element': 'Potassium',
+      'Symbol': 'K',
+      'Discovered': '1807',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 20,
+      'AtomicMass': 40.078,
+      'Element': 'Calcium',
+      'Symbol': 'Ca',
+      'Discovered': '1808',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 21,
+      'AtomicMass': 44.9559,
+      'Element': 'Scandium',
+      'Symbol': 'Sc',
+      'Discovered': '1879',
+      'Group': 3
+    },
+    {
+      'AtomicNumber': 22,
+      'AtomicMass': 47.867,
+      'Element': 'Titanium',
+      'Symbol': 'Ti',
+      'Discovered': '1791',
+      'Group': 4
+    },
+    {
+      'AtomicNumber': 23,
+      'AtomicMass': 50.9415,
+      'Element': 'Vanadium',
+      'Symbol': 'V',
+      'Discovered': '1830',
+      'Group': 5
+    },
+    {
+      'AtomicNumber': 24,
+      'AtomicMass': 51.9961,
+      'Element': 'Chromium',
+      'Symbol': 'Cr',
+      'Discovered': '1797',
+      'Group': 6
+    },
+    {
+      'AtomicNumber': 25,
+      'AtomicMass': 54.938,
+      'Element': 'Manganese',
+      'Symbol': 'Mn',
+      'Discovered': '1774',
+      'Group': 7
+    },
+    {
+      'AtomicNumber': 26,
+      'AtomicMass': 55.845,
+      'Element': 'Iron',
+      'Symbol': 'Fe',
+      'Discovered': 'Ancient',
+      'Group': 8
+    },
+    {
+      'AtomicNumber': 27,
+      'AtomicMass': 58.9332,
+      'Element': 'Cobalt',
+      'Symbol': 'Co',
+      'Discovered': '1735',
+      'Group': 9
+    },
+    {
+      'AtomicNumber': 28,
+      'AtomicMass': 58.6934,
+      'Element': 'Nickel',
+      'Symbol': 'Ni',
+      'Discovered': '1751',
+      'Group': 10
+    },
+    {
+      'AtomicNumber': 29,
+      'AtomicMass': 63.546,
+      'Element': 'Copper',
+      'Symbol': 'Cu',
+      'Discovered': 'Ancient',
+      'Group': 11
+    },
+    {
+      'AtomicNumber': 30,
+      'AtomicMass': 65.39,
+      'Element': 'Zinc',
+      'Symbol': 'Zn',
+      'Discovered': 'Ancient',
+      'Group': 12
+    },
+    {
+      'AtomicNumber': 31,
+      'AtomicMass': 69.723,
+      'Element': 'Gallium',
+      'Symbol': 'Ga',
+      'Discovered': '1875',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 32,
+      'AtomicMass': 72.64,
+      'Element': 'Germanium',
+      'Symbol': 'Ge',
+      'Discovered': '1886',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 33,
+      'AtomicMass': 74.9216,
+      'Element': 'Arsenic',
+      'Symbol': 'As',
+      'Discovered': 'Ancient',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 34,
+      'AtomicMass': 78.96,
+      'Element': 'Selenium',
+      'Symbol': 'Se',
+      'Discovered': '1817',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 35,
+      'AtomicMass': 79.904,
+      'Element': 'Bromine',
+      'Symbol': 'Br',
+      'Discovered': '1826',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 36,
+      'AtomicMass': 83.8,
+      'Element': 'Krypton',
+      'Symbol': 'Kr',
+      'Discovered': '1898',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 37,
+      'AtomicMass': 85.4678,
+      'Element': 'Rubidium',
+      'Symbol': 'Rb',
+      'Discovered': '1861',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 38,
+      'AtomicMass': 87.62,
+      'Element': 'Strontium',
+      'Symbol': 'Sr',
+      'Discovered': '1790',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 39,
+      'AtomicMass': 88.9059,
+      'Element': 'Yttrium',
+      'Symbol': 'Y',
+      'Discovered': '1794',
+      'Group': 3
+    },
+    {
+      'AtomicNumber': 40,
+      'AtomicMass': 91.224,
+      'Element': 'Zirconium',
+      'Symbol': 'Zr',
+      'Discovered': '1789',
+      'Group': 4
+    },
+    {
+      'AtomicNumber': 41,
+      'AtomicMass': 92.9064,
+      'Element': 'Niobium',
+      'Symbol': 'Nb',
+      'Discovered': '1801',
+      'Group': 5
+    },
+    {
+      'AtomicNumber': 42,
+      'AtomicMass': 95.94,
+      'Element': 'Molybdenum',
+      'Symbol': 'Mo',
+      'Discovered': '1781',
+      'Group': 6
+    },
+    {
+      'AtomicNumber': 43,
+      'AtomicMass': 98,
+      'Element': 'Technetium',
+      'Symbol': 'Tc',
+      'Discovered': '1937',
+      'Group': 7
+    },
+    {
+      'AtomicNumber': 44,
+      'AtomicMass': 101.07,
+      'Element': 'Ruthenium',
+      'Symbol': 'Ru',
+      'Discovered': '1844',
+      'Group': 8
+    },
+    {
+      'AtomicNumber': 45,
+      'AtomicMass': 102.9055,
+      'Element': 'Rhodium',
+      'Symbol': 'Rh',
+      'Discovered': '1803',
+      'Group': 9
+    },
+    {
+      'AtomicNumber': 46,
+      'AtomicMass': 106.42,
+      'Element': 'Palladium',
+      'Symbol': 'Pd',
+      'Discovered': '1803',
+      'Group': 10
+    },
+    {
+      'AtomicNumber': 47,
+      'AtomicMass': 107.8682,
+      'Element': 'Silver',
+      'Symbol': 'Ag',
+      'Discovered': 'Ancient',
+      'Group': 11
+    },
+    {
+      'AtomicNumber': 48,
+      'AtomicMass': 112.411,
+      'Element': 'Cadmium',
+      'Symbol': 'Cd',
+      'Discovered': '1817',
+      'Group': 12
+    },
+    {
+      'AtomicNumber': 49,
+      'AtomicMass': 114.818,
+      'Element': 'Indium',
+      'Symbol': 'In',
+      'Discovered': '1863',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 50,
+      'AtomicMass': 118.71,
+      'Element': 'Tin',
+      'Symbol': 'Sn',
+      'Discovered': 'Ancient',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 51,
+      'AtomicMass': 121.76,
+      'Element': 'Antimony',
+      'Symbol': 'Sb',
+      'Discovered': 'Ancient',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 52,
+      'AtomicMass': 127.6,
+      'Element': 'Tellurium',
+      'Symbol': 'Te',
+      'Discovered': '1783',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 53,
+      'AtomicMass': 126.9045,
+      'Element': 'Iodine',
+      'Symbol': 'I',
+      'Discovered': '1811',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 54,
+      'AtomicMass': 131.293,
+      'Element': 'Xenon',
+      'Symbol': 'Xe',
+      'Discovered': '1898',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 55,
+      'AtomicMass': 132.9055,
+      'Element': 'Cesium',
+      'Symbol': 'Cs',
+      'Discovered': '1860',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 56,
+      'AtomicMass': 137.327,
+      'Element': 'Barium',
+      'Symbol': 'Ba',
+      'Discovered': '1808',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 57,
+      'AtomicMass': 138.9055,
+      'Element': 'Lanthanum',
+      'Symbol': 'La',
+      'Discovered': '1839',
+      'Group': 3
+    },
+    {
+      'AtomicNumber': 58,
+      'AtomicMass': 140.116,
+      'Element': 'Cerium',
+      'Symbol': 'Ce',
+      'Discovered': '1803',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 59,
+      'AtomicMass': 140.9077,
+      'Element': 'Praseodymium',
+      'Symbol': 'Pr',
+      'Discovered': '1885',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 60,
+      'AtomicMass': 144.24,
+      'Element': 'Neodymium',
+      'Symbol': 'Nd',
+      'Discovered': '1885',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 61,
+      'AtomicMass': 145,
+      'Element': 'Promethium',
+      'Symbol': 'Pm',
+      'Discovered': '1945',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 62,
+      'AtomicMass': 150.36,
+      'Element': 'Samarium',
+      'Symbol': 'Sm',
+      'Discovered': '1879',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 63,
+      'AtomicMass': 151.964,
+      'Element': 'Europium',
+      'Symbol': 'Eu',
+      'Discovered': '1901',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 64,
+      'AtomicMass': 157.25,
+      'Element': 'Gadolinium',
+      'Symbol': 'Gd',
+      'Discovered': '1880',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 65,
+      'AtomicMass': 158.9253,
+      'Element': 'Terbium',
+      'Symbol': 'Tb',
+      'Discovered': '1843',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 66,
+      'AtomicMass': 162.5,
+      'Element': 'Dysprosium',
+      'Symbol': 'Dy',
+      'Discovered': '1886',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 67,
+      'AtomicMass': 164.9303,
+      'Element': 'Holmium',
+      'Symbol': 'Ho',
+      'Discovered': '1867',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 68,
+      'AtomicMass': 167.259,
+      'Element': 'Erbium',
+      'Symbol': 'Er',
+      'Discovered': '1842',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 69,
+      'AtomicMass': 168.9342,
+      'Element': 'Thulium',
+      'Symbol': 'Tm',
+      'Discovered': '1879',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 70,
+      'AtomicMass': 173.04,
+      'Element': 'Ytterbium',
+      'Symbol': 'Yb',
+      'Discovered': '1878',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 71,
+      'AtomicMass': 174.967,
+      'Element': 'Lutetium',
+      'Symbol': 'Lu',
+      'Discovered': '1907',
+      'Group': 101
+    },
+    {
+      'AtomicNumber': 72,
+      'AtomicMass': 178.49,
+      'Element': 'Hafnium',
+      'Symbol': 'Hf',
+      'Discovered': '1923',
+      'Group': 4
+    },
+    {
+      'AtomicNumber': 73,
+      'AtomicMass': 180.9479,
+      'Element': 'Tantalum',
+      'Symbol': 'Ta',
+      'Discovered': '1802',
+      'Group': 5
+    },
+    {
+      'AtomicNumber': 74,
+      'AtomicMass': 183.84,
+      'Element': 'Tungsten',
+      'Symbol': 'W',
+      'Discovered': '1783',
+      'Group': 6
+    },
+    {
+      'AtomicNumber': 75,
+      'AtomicMass': 186.207,
+      'Element': 'Rhenium',
+      'Symbol': 'Re',
+      'Discovered': '1925',
+      'Group': 7
+    },
+    {
+      'AtomicNumber': 76,
+      'AtomicMass': 190.23,
+      'Element': 'Osmium',
+      'Symbol': 'Os',
+      'Discovered': '1803',
+      'Group': 8
+    },
+    {
+      'AtomicNumber': 77,
+      'AtomicMass': 196.9665,
+      'Element': 'Iridium',
+      'Symbol': 'Ir',
+      'Discovered': 'Ancient',
+      'Group': 11
+    },
+    {
+      'AtomicNumber': 78,
+      'AtomicMass': 192.217,
+      'Element': 'Platinum',
+      'Symbol': 'Pt',
+      'Discovered': '1803',
+      'Group': 9
+    },
+    {
+      'AtomicNumber': 79,
+      'AtomicMass': 195.078,
+      'Element': 'Gold',
+      'Symbol': 'Au',
+      'Discovered': '1735',
+      'Group': 10
+    },
+    {
+      'AtomicNumber': 80,
+      'AtomicMass': 200.59,
+      'Element': 'Mercury',
+      'Symbol': 'Hg',
+      'Discovered': 'Ancient',
+      'Group': 12
+    },
+    {
+      'AtomicNumber': 81,
+      'AtomicMass': 204.3833,
+      'Element': 'Thallium',
+      'Symbol': 'Tl',
+      'Discovered': '1861',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 82,
+      'AtomicMass': 207.2,
+      'Element': 'Lead',
+      'Symbol': 'Pb',
+      'Discovered': 'Ancient',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 83,
+      'AtomicMass': 208.9804,
+      'Element': 'Bismuth',
+      'Symbol': 'Bi',
+      'Discovered': 'Ancient',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 84,
+      'AtomicMass': 209,
+      'Element': 'Polonium',
+      'Symbol': 'Po',
+      'Discovered': '1898',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 85,
+      'AtomicMass': 210,
+      'Element': 'Astatine',
+      'Symbol': 'At',
+      'Discovered': '1940',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 86,
+      'AtomicMass': 222,
+      'Element': 'Radon',
+      'Symbol': 'Rn',
+      'Discovered': '1900',
+      'Group': 18
+    },
+    {
+      'AtomicNumber': 87,
+      'AtomicMass': 223,
+      'Element': 'Francium',
+      'Symbol': 'Fr',
+      'Discovered': '1939',
+      'Group': 1
+    },
+    {
+      'AtomicNumber': 88,
+      'AtomicMass': 226,
+      'Element': 'Radium',
+      'Symbol': 'Ra',
+      'Discovered': '1898',
+      'Group': 2
+    },
+    {
+      'AtomicNumber': 89,
+      'AtomicMass': 227,
+      'Element': 'Actinium',
+      'Symbol': 'Ac',
+      'Discovered': '1899',
+      'Group': 3
+    },
+    {
+      'AtomicNumber': 90,
+      'AtomicMass': 232.0381,
+      'Element': 'Thorium',
+      'Symbol': 'Th',
+      'Discovered': '1829',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 91,
+      'AtomicMass': 231.0359,
+      'Element': 'Protactinium',
+      'Symbol': 'Pa',
+      'Discovered': '1913',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 92,
+      'AtomicMass': 238.0289,
+      'Element': 'Uranium',
+      'Symbol': 'U',
+      'Discovered': '1789',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 93,
+      'AtomicMass': 237,
+      'Element': 'Neptunium',
+      'Symbol': 'Np',
+      'Discovered': '1940',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 94,
+      'AtomicMass': 244,
+      'Element': 'Plutonium',
+      'Symbol': 'Pu',
+      'Discovered': '1940',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 95,
+      'AtomicMass': 243,
+      'Element': 'Americium',
+      'Symbol': 'Am',
+      'Discovered': '1944',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 96,
+      'AtomicMass': 247,
+      'Element': 'Curium',
+      'Symbol': 'Cm',
+      'Discovered': '1944',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 97,
+      'AtomicMass': 247,
+      'Element': 'Berkelium',
+      'Symbol': 'Bk',
+      'Discovered': '1949',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 98,
+      'AtomicMass': 251,
+      'Element': 'Californium',
+      'Symbol': 'Cf',
+      'Discovered': '1950',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 99,
+      'AtomicMass': 252,
+      'Element': 'Einsteinium',
+      'Symbol': 'Es',
+      'Discovered': '1952',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 100,
+      'AtomicMass': 257,
+      'Element': 'Fermium',
+      'Symbol': 'Fm',
+      'Discovered': '1952',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 101,
+      'AtomicMass': 258,
+      'Element': 'Mendelevium',
+      'Symbol': 'Md',
+      'Discovered': '1955',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 102,
+      'AtomicMass': 259,
+      'Element': 'Nobelium',
+      'Symbol': 'No',
+      'Discovered': '1958',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 103,
+      'AtomicMass': 262,
+      'Element': 'Lawrencium',
+      'Symbol': 'Lr',
+      'Discovered': '1961',
+      'Group': 102
+    },
+    {
+      'AtomicNumber': 104,
+      'AtomicMass': 261,
+      'Element': 'Rutherfordium',
+      'Symbol': 'Rf',
+      'Discovered': '1964',
+      'Group': 4
+    },
+    {
+      'AtomicNumber': 105,
+      'AtomicMass': 262,
+      'Element': 'Dubnium',
+      'Symbol': 'Db',
+      'Discovered': '1967',
+      'Group': 5
+    },
+    {
+      'AtomicNumber': 106,
+      'AtomicMass': 266,
+      'Element': 'Seaborgium',
+      'Symbol': 'Sg',
+      'Discovered': '1974',
+      'Group': 6
+    },
+    {
+      'AtomicNumber': 107,
+      'AtomicMass': 264,
+      'Element': 'Bohrium',
+      'Symbol': 'Bh',
+      'Discovered': '1981',
+      'Group': 7
+    },
+    {
+      'AtomicNumber': 108,
+      'AtomicMass': 277,
+      'Element': 'Hassium',
+      'Symbol': 'Hs',
+      'Discovered': '1984',
+      'Group': 8
+    },
+    {
+      'AtomicNumber': 109,
+      'AtomicMass': 268,
+      'Element': 'Meitnerium',
+      'Symbol': 'Mt',
+      'Discovered': '1982',
+      'Group': 9
+    },
+    {
+      'AtomicNumber': 110,
+      'AtomicMass': 261.9,
+      'Element': 'Darmstadtium',
+      'Symbol': 'Ds',
+      'Discovered': '1994',
+      'Group': 10
+    },
+    {
+      'AtomicNumber': 111,
+      'AtomicMass': 271.8,
+      'Element': 'Roentgenium',
+      'Symbol': 'Rg',
+      'Discovered': '1994',
+      'Group': 11
+    },
+    {
+      'AtomicNumber': 112,
+      'AtomicMass': 285,
+      'Element': 'Copernicium',
+      'Symbol': 'Cn',
+      'Discovered': '1996',
+      'Group': 12
+    },
+    {
+      'AtomicNumber': 113,
+      'AtomicMass': 286,
+      'Element': 'Ununtrium',
+      'Symbol': 'Uut',
+      'Discovered': '2003',
+      'Group': 13
+    },
+    {
+      'AtomicNumber': 114,
+      'AtomicMass': 289,
+      'Element': 'Flerovium',
+      'Symbol': 'Fl',
+      'Discovered': '1998',
+      'Group': 14
+    },
+    {
+      'AtomicNumber': 115,
+      'AtomicMass': 288,
+      'Element': 'Ununpentium',
+      'Symbol': 'Uup',
+      'Discovered': '2010',
+      'Group': 15
+    },
+    {
+      'AtomicNumber': 116,
+      'AtomicMass': 293,
+      'Element': 'Livermorium',
+      'Symbol': 'Lv',
+      'Discovered': '2000',
+      'Group': 16
+    },
+    {
+      'AtomicNumber': 117,
+      'AtomicMass': 260.9,
+      'Element': 'Ununseptium',
+      'Symbol': 'Uus',
+      'Discovered': '2010',
+      'Group': 17
+    },
+    {
+      'AtomicNumber': 118,
+      'AtomicMass': 294,
+      'Element': 'Ununoctium',
+      'Symbol': 'Uuo',
+      'Discovered': '2006',
+      'Group': 18
+    }
+  ]
+}
